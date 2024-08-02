@@ -1,2 +1,2 @@
 # dio-java-basico
-Curso da DIO
+Curso da DIO (bootcamp de Java)
